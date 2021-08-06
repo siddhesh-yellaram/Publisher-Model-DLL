@@ -1,0 +1,6 @@
+D:\test\.NET\PublisherModelDLL\Publisher\bin\Debug\Publisher.dll
+D:\test\.NET\PublisherModelDLL\Publisher\bin\Debug\Publisher.pdb
+D:\test\.NET\PublisherModelDLL\Publisher\obj\Debug\Publisher.csproj.AssemblyReference.cache
+D:\test\.NET\PublisherModelDLL\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+D:\test\.NET\PublisherModelDLL\Publisher\obj\Debug\Publisher.dll
+D:\test\.NET\PublisherModelDLL\Publisher\obj\Debug\Publisher.pdb
